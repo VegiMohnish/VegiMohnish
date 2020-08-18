@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on 5G Network Protocols.
 - 🔭 I love to CODE.
 - 🌱 I’m currently a Computer Engineer Student @ [![IIITDM Kancheepuram]][2]
-- 📫 How to reach me through social media: [![Twitter][3.2]][4], or on [![LinkedIn][1.2]][1], or on [![Instagram][2.2]][3], or on [![Facebook][5.2]][5], or on [![Youtube][4.2]][6].
+- 📫 How to reach me through social media: [![Twitter][3.2]][4]  [![LinkedIn][1.2]][1]  [![Instagram][2.2]][3]  [![Facebook][5.2]][5]  [![Youtube][4.2]][6].
 - ⚡ Fun fact: I like to cook and eat.
 
 [1.2]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
