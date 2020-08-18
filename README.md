@@ -19,4 +19,4 @@
 [5]: https://www.facebook.com/mohnish.vegi/
 [6]: https://www.youtube.com/channel/UCCDEMksPpkAQUFUcGYhEWmw/featured?view_as=subscriber
 
-[![Mohnish's github stats](https://github-readme-stats.vercel.app/api?username=VegiMohnish)](https://github.com/VegiMohnish/github-readme-stats)
+[![Mohnish's github stats](https://github-readme-stats.vercel.app/api?username=VegiMohnish&show_icons=true&theme=radical)](https://github.com/VegiMohnish/github-readme-stats)
