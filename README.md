@@ -3,8 +3,8 @@
 -  I’m currently working on 5G Network Protocols at 5G Testbed IIT Madras.
 -  I love to CODE.
 -  I’m currently a CS Student at [![IIITDM Kancheepuram]][2]
--  How to reach me through social media: [![Twitter][3.2]][4]  [![LinkedIn][1.2]][1]  [![Instagram][2.2]][3]  [![Facebook][5.2]][5]  [![Youtube][4.2]][6].
 -  Fun fact: I like to cook and eat.
+-  How to reach me through social media: [![Twitter][3.2]][4]  [![LinkedIn][1.2]][1]  [![Instagram][2.2]][3]  [![Facebook][5.2]][5]  [![Youtube][4.2]][6].
 
 [1.2]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
 [2.2]: https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white
