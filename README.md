@@ -22,4 +22,7 @@
 
 [![Mohnish's github stats](https://github-readme-stats.vercel.app/api?username=VegiMohnish&show_icons=true&theme=radical)](https://github.com/VegiMohnish/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VegiMohnish&layout=compact)](https://github.com/VegiMohnish/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=your-github-VegiMohnish&style=flat-square)
+
