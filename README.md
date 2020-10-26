@@ -1,6 +1,6 @@
 ### Hi there, I'm Vegi Mohnish 👋
 
--  I’m currently working on 5G Network Protocols at 5G Testbed IIT Madras.
+-  Former intern at 5G Testbed IIT Madras.
 -  I’m currently a CS Student at [![IIITDM Kancheepuram]][2].
 -  I'm interested in Software Development , Data Science , Android Development , Web Development , Networking.
 -  I love to CODE.
